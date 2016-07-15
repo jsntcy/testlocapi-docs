@@ -5,7 +5,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "testlocapi-docs",
-      "build_source_folder": "testlocapi-docs",
+      "build_source_folder": "testlocapi-docs1",
       "build_output_subfolder": "testlocapi-docs",
       "locale": "en-us",
       "version": 0,
