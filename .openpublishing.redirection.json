@@ -7,7 +7,7 @@
         },
         {
             "source_path": "testlocapi-docs1/abc/ghi1.md",
-            "redirect_url": "http://www.opq.com/uvw",
+            "redirect_url": "https://ms.portal.azure.com",
             "redirect_document_id": false
         },
         {
