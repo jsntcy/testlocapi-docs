@@ -1,8 +1,8 @@
 {
     "redirections": [
         {
-            "source_path": "testlocapi-docs1/abc/def.md",
-            "redirect_url": "abc/xyz1",
+            "source_path": "testlocapi-docs1/abc/Def.md",
+            "redirect_url": "abc/xyz12",
             "redirect_document_id": true
         },
         {
