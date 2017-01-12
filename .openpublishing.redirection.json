@@ -19,6 +19,11 @@
             "source_path": "testlocapi-docs1/abc/def2.md",
             "redirect_url": "http://www.opq.com/uvw",
             "redirect_document_id": true
+        },
+        {
+            "source_path": "testlocapi-docs1/abc/new_redirection.md",
+            "redirect_url": "http://www.opq.com/uvw",
+            "redirect_document_id": true
         }
     ]
 }
